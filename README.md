@@ -1,2 +1,2 @@
-# Assasination
-Pretty self-explanatory name
+# Assault of Courage
+Gulag CTF
